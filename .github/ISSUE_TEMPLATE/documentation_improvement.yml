@@ -1,0 +1,28 @@
+name: "Documentation Improvement"
+description: "Request improvements or additions to the documentation."
+title: "[DOCS] Brief description of the documentation need"
+labels: ["documentation"]
+body:
+  - type: markdown
+    attributes:
+      value: "Please fill out the details below about the documentation request."
+
+  - type: input
+    id: summary
+    attributes:
+      label: "Summary"
+      placeholder: "Briefly describe the documentation improvement needed."
+
+  - type: textarea
+    id: improvement_details
+    attributes:
+      label: "Improvement Details"
+      description: "Explain the specific documentation areas to improve or add."
+      placeholder: "Describe what needs clarification or enhancement."
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: "Additional Context"
+      description: "Any additional information or links related to the improvement."
+      placeholder: "Add any supporting information or links."

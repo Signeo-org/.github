@@ -1,0 +1,32 @@
+name: "Feature Request"
+description: "Suggest a feature to enhance the Signeo project."
+title: "[FEATURE] Brief description of the feature"
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: "Please fill out the details below about the feature request."
+
+  - type: input
+    id: summary
+    attributes:
+      label: "Feature Summary"
+      placeholder: "A brief summary of the feature request."
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: "Problem"
+      placeholder: "Explain the problem this feature would solve."
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: "Proposed Solution"
+      placeholder: "Describe the solution you'd like to see."
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: "Alternative Solutions"
+      placeholder: "Describe alternative solutions you've considered."
