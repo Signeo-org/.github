@@ -18,7 +18,7 @@ Signeo is dedicated to developing tools for live subtitling, focusing on accessi
 
 We’re building Signeo as an open project and welcome contributions from the community! Here’s how to get started:
 
-1. **Read our [CONTRIBUTING.md](https://github.com/signeo-org/.github/blob/main/CONTRIBUTING.md)** for guidelines on coding standards, branch naming, and commit practices.
+1. **Read our [CONTRIBUTING.md](https://github.com/signeo-org/signeo-docs/blob/main/CONTRIBUTING.md)** for guidelines on coding standards, branch naming, and commit practices.
 2. **Join the Discussions** in [signeo-main](https://github.com/signeo-org/signeo-main/discussions) to ask questions, share ideas, or get support.
 3. **Explore our [documentation](https://github.com/signeo-org/signeo-docs)** for more on the project’s goals, features, and setup.
 
